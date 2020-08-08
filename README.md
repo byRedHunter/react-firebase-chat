@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Simple chat with react and firebase.`
+Preview:
+- https://byredhunter.github.io/react-firebase-chat/
+![Preview](https://repository-images.githubusercontent.com/286121706/6883a080-d996-11ea-94b4-aa0dfcb2aeff)
 
 ## Available Scripts
 
